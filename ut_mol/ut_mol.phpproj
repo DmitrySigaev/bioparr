@@ -1,0 +1,66 @@
+"General"
+{
+"ProjectType" = "local"
+"AutoLoadTemplate" = "%s.php;class.%s.php;"
+"IncludeDirs" = ""
+}
+"Configurations"
+{
+    "Local|PHP 5.3"
+    {
+    }
+    "Staging|PHP 5.3"
+    {
+    }
+    "Production|PHP 5.3"
+    {
+    }
+}
+"Files"
+{
+    "index.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "script"
+    {
+    "ProjRelPath" = "T"
+    }
+    "script\\chem"
+    {
+    "ProjRelPath" = "T"
+    }
+    "script\\chem\\molfile.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "script\\chem\\struct.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "script\\util"
+    {
+    "ProjRelPath" = "T"
+    }
+    "script\\util\\map.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "script\\util\\pool.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "script\\util\\vec2.js"
+    {
+    "ProjRelPath" = "T"
+    }
+}
+"ProjStartupServices"
+{
+}
+"Globals"
+{
+}
+"References"
+{
+}

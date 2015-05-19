@@ -18,6 +18,22 @@
 }
 "Files"
 {
+    ".gitignore"
+    {
+    "ProjRelPath" = "T"
+    }
+    "accholine.cml"
+    {
+    "ProjRelPath" = "T"
+    }
+    "accholine.mol"
+    {
+    "ProjRelPath" = "T"
+    }
+    "accholine1.mol"
+    {
+    "ProjRelPath" = "T"
+    }
     "index.php"
     {
     "ProjRelPath" = "T"
@@ -34,11 +50,23 @@
     {
     "ProjRelPath" = "T"
     }
+    "script\\chem\\sgroup.js"
+    {
+    "ProjRelPath" = "T"
+    }
     "script\\chem\\struct.js"
     {
     "ProjRelPath" = "T"
     }
     "script\\util"
+    {
+    "ProjRelPath" = "T"
+    }
+    "script\\util\\c_proto.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "script\\util\\common.js"
     {
     "ProjRelPath" = "T"
     }
@@ -50,7 +78,23 @@
     {
     "ProjRelPath" = "T"
     }
+    "script\\util\\prototype-min.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "script\\util\\set.js"
+    {
+    "ProjRelPath" = "T"
+    }
     "script\\util\\vec2.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "script\\util\\xml.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "xml.js"
     {
     "ProjRelPath" = "T"
     }

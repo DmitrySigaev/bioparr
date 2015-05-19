@@ -54,7 +54,8 @@ var Test = window.open('accholine.mol');
 
 <script  src='/script/chem/struct.js'> </script>
 <script  src='/script/chem/molfile.js'> </script>
-<script  src='script/util/prototype-min.js'> </script>
+<script  src='script/util/c_proto.js'> </script>
+
 <script  src='script/util/common.js'> </script>
 <script  src='/script/chem/sgroup.js'> </script>
 <script  src='xml.js'> </script>
